@@ -1,0 +1,16 @@
+1. install python 3.6.x
+
+2.got to your terminal
+
+3.install numpy wih the command :pip install numpy
+
+4 execute the below at your terminal
+
+python /path/to/script/myscript.py    /path/to/input/small.txt  > /path/to/output/myfile.txt
+
+for exmple mine is as below
+
+C:\Users\Stavros\Desktop\maze>python maze.py C:\\Users\\Stavros\\Desktop\\maze\\small.txt  >apoel.txt
+
+
+THANK YOU FOR GIVING ME THIS OPORTUNITY
